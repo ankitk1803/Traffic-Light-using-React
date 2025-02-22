@@ -1,0 +1,10 @@
+.App{
+    font-family: sans-serif;
+}
+
+.signal{
+    width: 3rem;
+    height: 3rem;
+    border: 1px solid black;
+    border-radius: 50%;
+}
