@@ -2,7 +2,7 @@ import Traffic from "./component/Traffic"
 import "./styles.css"
 function App() {
   return (
-    <div>
+    <div className="app">
       <Traffic/>
     </div>
   );
